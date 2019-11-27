@@ -312,7 +312,7 @@ Smooth Design
 			<span></span>
 			<span></span>
 			<span></span>
-			<font color="white">Portfolio</font>
+			<font color="white">Portfolior</font>
 		</a>
 	</li>
 </ul>
